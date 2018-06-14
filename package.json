@@ -1,6 +1,6 @@
 {
   "name": "express-generator-babel",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Generates an express.js application leveraging a babel/webpack build",
   "main": "index.js",
   "scripts": {
