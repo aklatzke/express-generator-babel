@@ -1,4 +1,4 @@
-#!usr/bin/env node
+#!/usr/bin/env node
 
 let processArgs = process.argv.splice( 2 );
 let gitPath = "https://github.com/aklatzke/express-babel.git";
