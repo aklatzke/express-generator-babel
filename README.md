@@ -1,10 +1,10 @@
-#Express Generator Babel
+# Express Generator Babel
 
 This generator simply clones a fork of the vmasto/express-babel setup and removes the initial git repository.
 
 If you're generating this as many times as I am, it can be helpful to remove some steps.
 
-##Installation
+## Installation
 
 npm i -g express-generator-babel
 
