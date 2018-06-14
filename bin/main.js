@@ -1,5 +1,3 @@
-#!/usr/bin/env node
-
 let processArgs = process.argv.splice( 2 );
 let gitPath = "https://github.com/aklatzke/express-babel.git";
 let exec = require("child_process").exec;
